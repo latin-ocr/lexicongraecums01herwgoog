@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexicongraecums01herwgoog/lexicongraecums01herwgoog_0014.png"; bbox 0 0 971 1477; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 101 178 735 345">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 101 178 735 345">
+     <span class='ocr_line' id='line_1_1' title="bbox 200 178 613 228; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 200 178 375 228; x_wconf 81' lang='lat' dir='ltr'>Lexicon</span> <span class='ocrx_word' id='word_1_2' title='bbox 414 179 613 228; x_wconf 77' lang='lat' dir='ltr'><strong>Graecum</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 101 280 735 345; baseline 0 -15"><span class='ocrx_word' id='word_1_3' title='bbox 101 280 375 345; x_wconf 65' lang='lat' dir='ltr'>Jppletorium</span> <span class='ocrx_word' id='word_1_4' title='bbox 406 285 446 330; x_wconf 75' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_5' title='bbox 475 280 735 330; x_wconf 79' lang='lat' dir='ltr'>dialecticum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 343 459 469 477">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 343 459 469 477">
+     <span class='ocr_line' id='line_1_3' title="bbox 343 459 469 477; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 343 459 401 476; x_wconf 77' lang='lat' dir='ltr'>mm&gt;</span> <span class='ocrx_word' id='word_1_7' title='bbox 402 459 469 477; x_wconf 82' lang='lat' dir='ltr'>OOOOO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 144 599 660 647">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 144 599 660 647">
+     <span class='ocr_line' id='line_1_4' title="bbox 144 599 660 647; baseline 0 -16"><span class='ocrx_word' id='word_1_8' title='bbox 144 599 321 632; x_wconf 84' lang='lat' dir='ltr'><strong>HENRICUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 341 599 411 631; x_wconf 88' lang='lat' dir='ltr'>VAN</span> <span class='ocrx_word' id='word_1_10' title='bbox 430 599 660 647; x_wconf 59' lang='lat' dir='ltr'>fiERWERDEN,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 246 649 568 664">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 246 649 568 664">
+     <span class='ocr_line' id='line_1_5' title="bbox 246 649 568 664; baseline 0.003 -1"><span class='ocrx_word' id='word_1_11' title='bbox 246 650 319 663; x_wconf 72' lang='lat' dir='ltr'>mennor</span> <span class='ocrx_word' id='word_1_12' title='bbox 326 649 369 664; x_wconf 67' lang='lat' dir='ltr'>«mhi</span> <span class='ocrx_word' id='word_1_13' title='bbox 370 650 568 664; x_wconf 60' lang='lat' dir='ltr'>nnnnnnnnnnnnnn</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
